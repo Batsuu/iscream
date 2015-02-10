@@ -1,2 +1,4 @@
-# iscream
-I'Scream est une app proposant des films et séries sur les différents canaux de distribution (vod, dvd, cinema).
+# Tivipush
+Tivipush est le compagnon de la télé, commentaires en temps réel des émissions de la télé.
+
+[Demo project](http://etna.mages.agency/)
